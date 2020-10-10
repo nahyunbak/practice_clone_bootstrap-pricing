@@ -2,7 +2,7 @@
 # clone coding: bootstrap examples of pricing 
 - what I cloned: https://getbootstrap.com/docs/4.0/examples/pricing/
 - lecture: https://youtu.be/RK5foxPm5GA 
-- what I learned: how to build basic structures(배운 것: 기본적인 웹사이트의 구조를 잡는 법을 배웠다.)
+- what I learned: how to build basic structures
 
 
 # 클론코딩: 부트스트랩 가격표 예시 
